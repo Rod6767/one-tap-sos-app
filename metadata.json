@@ -1,0 +1,6 @@
+{
+  "name": "One-Tap SOS Emergency Assistant",
+  "description": "One-tap emergency trigger with siren, strobe, GPS sharing, emergency contacts, and global emergency quick dials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
